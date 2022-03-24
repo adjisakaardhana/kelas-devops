@@ -4,7 +4,7 @@
 |---------|-----------|-----------------------|-----------|-----------------|----------------|
 | 1.      | 110220282 | Farid Muhari          |faridmuhari08@gmail.com|FaridMuhari                 |                |
 | 2.      | 110220279 | Riddho Fadli Pradana  |    ridd20279ti@student.nurulfikri.ac.id      |Fadly-cloud            |                |
-| 3.      | 110220081 | Adji Saka Ardhana     |           |                 |                |
+| 3.      | 110220081 | Adji Saka Ardhana     |adji20081ti@student.nurulfikri.ac.id           |adjisakaardhana                 |                |
 | 4.      | 110220167 | Ali Mahmud            |alim20167ti@student.nurulfikri.ac.id|a5hmudnf|                |
 | 5.      | 110220152 | Raihan Kaeni Smit     |raih20152ti@student.nurulfikri.ac.id           |raihan-smit20152ti                 |                |
 | 6.      | 110219009 | Muhammad Yusuf Salman |           |                 |                |
@@ -17,7 +17,7 @@
 |---------|-----------|---------------------|-----------|-----------------|----------------|
 | 1.      | 110220206 | Hari Maulana        |           |                 |                |
 | 2.      | 110219090 | Yazidul Yasar       |           |                 |                |
-| 3.      | 110219088 | Alfin Adi Surya     |alfinadisurya24@gmail.com           |alfinadisurya24                 |                |
+| 3.      | 110219088 | Alfin Adi Surya     |           |                 |                |
 | 4.      | 110220247 | Habibi              |           |                 |                |
 | 5.      | 110219134 | Agung Priyo Sembodo |agun19134ti@student.nurulfikri.ac.id           |priyo00                 |                |
 | 6.      | 110219133 | Iqbal Assegaf       |           |                 |                |
